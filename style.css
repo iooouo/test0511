@@ -1,0 +1,63 @@
+/*コメントコメントニコニコ*/
+body {
+  font-family: sans-serif;
+}
+
+li {
+  list-style: none;
+}
+
+.header {
+  height: 15px;
+  width
+}
+
+.header-logo {
+  font-size: 35px;
+  color: #e10000;
+  float: left;
+  margin: 15px 40px 15px 40px;
+}
+.header-list1 li {
+  font-size: 13px;
+  float: left;
+  padding: 15px 10px;
+  margin-left: 5px;
+}
+.header-list2 li {
+  font-size: 13px;
+  float: right;
+  padding: 10px 10px;
+  margin-right: 20px;
+}
+
+.main {
+  padding-top: 40px;
+  text-align : center
+
+}
+.main-menu {
+  position: relative;
+}
+.main-menu-img img{
+  width: 100%;
+}
+
+.main-menu-img h1 {
+  position: absolute;
+  color: azure;
+  font-size: 60px;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%,-50%);
+  -webkit-transform: translate(-50%,-50%);
+  transform: translate(-50%,-50%);
+  margin: 0;
+  padding: 0;
+
+}
+
+.main-menu-txe {
+font-size: 40px;
+
+}
